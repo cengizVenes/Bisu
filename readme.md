@@ -2,7 +2,7 @@
 
 This was the first site I cloned, although it didn't turn out very well with many deficiencies and unstable code, overall I tried to keep the site alive :)
 
-![bisu-index.gif](bisu-index.gif)
+![bisu-index.png](bisu-index.png)
 
 ## Technologies
 
